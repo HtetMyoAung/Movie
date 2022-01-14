@@ -1,0 +1,1 @@
+const api="https://api.themoviedb.org/3/movie/124?api_key=a7ccf2c5e0057b35441b634cb1b166a0&language=en-US"
